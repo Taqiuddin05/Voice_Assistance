@@ -1,1 +1,2 @@
 # Voice_Assistance
+This digital assistant uses voice recognition, language processing algorithms, and voice synthesis to listen to specific voice commands, returning relevant information or performing specific functions as requested by the user. It can greet the user, provide news reports, browse the web, stream videos on YouTube, tell jokes, and deliver weather updates. Developed in Python, this assistant is designed specifically for use on computers.
